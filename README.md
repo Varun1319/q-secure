@@ -1,4 +1,4 @@
-# Q-Secure Chat
+# q-Secure
 This was made for my college Mini Project for the 5th Semester.
 Modern Chat Applications use End-to-End Encrytption, which typically uses algorithms like RSA, which can be broken with enough quantum computing power. <br> 
 
